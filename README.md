@@ -1,6 +1,6 @@
 `# Movieland REst API built with React, MUI, Bootstrap, Java Spring Boot and MongoDB and test with Postman `
 
-`[1] This was bulit after learning from FreeCodeCamp tutorial . At the moment can deploy only frontend  and you can checke here. I will deploy backend later.
+`[1] This was bulit after learning from FreeCodeCamp tutorial . At the moment can deploy only frontend  and you can checke here. I will deploy backend later.`
  https://movieland-api.onrender.com/
 
 
