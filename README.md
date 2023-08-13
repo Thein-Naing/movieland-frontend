@@ -1,4 +1,4 @@
-`# Movieland REst API built with React,Spring Boot and MongoDB `
+`# Movieland REst API built with React, MUI, Bootstrap, Java Spring Boot and MongoDB `
 
 `[1] At the mone can deploy frontend only and you can checke here. I will deploy backend later.
  https://movieland-api.onrender.com/
