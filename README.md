@@ -1,4 +1,4 @@
-`# Movieland application built with React, MUI, Bootstrap, Java, Spring Boot, MongoDB and tested with Postman `
+`# Movieland application built with React, MUI, Bootstrap, Java, Spring Boot, MongoDB, TMDB API and tested with Postman `
 
 `[1] This was bulit after learning from FreeCodeCamp tutorial . At the moment can deploy only frontend  and you can checke here. I will deploy backend later.`
  https://movieland-api.onrender.com/
