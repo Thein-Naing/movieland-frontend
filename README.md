@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+`# Movieland application built with React, MUI, Bootstrap, Java, Spring Boot, MongoDB, TMDB API and tested with Postman `
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`[1] This was bulit after learning from FreeCodeCamp tutorial . At the moment can deploy only frontend  and you can checke here. I will deploy backend later.`
+ https://movieland-api.onrender.com/
 
-## Available Scripts
 
-In the project directory, you can run:
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/9ac55f82-e96f-40b3-856c-ac13e68ff64a">
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ <img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/c34f358e-8d1b-4cc6-991c-269d94c357e7">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/28deaf53-88ae-448f-b8ad-45fb28239d1b">
 
-### `npm test`
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/1e6dea01-5f51-4104-90d5-e992cca3db45">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/1af3e972-dffb-45dc-a42f-20df724ee109">
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/f9a074a8-7c63-46eb-aa15-8c16c42ef7cd">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/5f3bbe03-96c7-47e7-b96e-0b8e50ab88a0">
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/a71607a9-0976-4d25-8e2a-76560c1a830c">
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/0808bec9-3b9d-4e71-a735-430d0e542bfc">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
