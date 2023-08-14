@@ -66,6 +66,14 @@
   color:white;
 }
 
+.movie-review-button-container{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width:500px;
+  /* color:blue; */
+}
+
 @media only screen and (max-width: 800px) {
   .movie-detail{
       flex-direction: column;

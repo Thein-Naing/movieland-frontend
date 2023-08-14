@@ -28,10 +28,10 @@ const Header = () => {
               Watch List
             </NavLink>
           </Nav>
-          <Button variant="outline-info" className="me-2">
+          <Button variant="outline-primary" className="me-2">
             Login
           </Button>
-          <Button variant="outline-info">Register</Button>
+          <Button variant="outline-primary">Register</Button>
         </Navbar.Collapse>
       </Container>
     </Navbar>

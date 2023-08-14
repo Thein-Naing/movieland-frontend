@@ -12,7 +12,7 @@ const ReviewForm = ({ handleSubmit, revText, labelText, defaultValue }) => {
           defaultValue={defaultValue}
         />
       </Form.Group>
-      <Button variant="outline-info" onClick={handleSubmit}>
+      <Button variant="outline-success" onClick={handleSubmit}>
         Submit
       </Button>
     </Form>

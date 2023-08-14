@@ -42,12 +42,13 @@ const Hero = ({ movies }) => {
                             className="play-button-icon"
                             icon={faCirclePlay}
                           />
+                          Play
                         </div>
                       </Link>
 
                       <div className="movie-review-button-container">
                         <Button
-                          variant="info"
+                          variant="success"
                           onClick={() => reviews(movie.imdbId)}
                         >
                           Reviews
