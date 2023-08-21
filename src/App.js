@@ -7,6 +7,7 @@ import Home from "./components/Home";
 import Header from "./components/Header";
 import Trailer from "./components/Trailer";
 import Reviews from "./review/Reviews";
+import Login from "./pages/Login";
 
 function App() {
   const [movies, setMovies] = useState();
@@ -46,6 +47,7 @@ function App() {
       <Router>
         <Header />
         <Routes>
+          <Route path="/login" element={<Login />} />
           <Route path="/" element={<Home movies={movies} />} />
           <Route path="/" element={<Layout />} />
           <Route path="/Trailer/:ytTrailerId" element={<Trailer />} />
