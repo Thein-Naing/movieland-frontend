@@ -42,7 +42,7 @@ const Header = () => {
             </NavLink>
           </Nav>
           <Link to={!user && "/login"}>
-          <span style={{padding:"10px"}}>Hi {!user ? "Guest" : user?.email}</span>
+          <span style={{padding:"10px", textDecoration:"none"}}>Hi {!user ? "Guest" : user?.email}</span>
             <Button
               variant="outline-primary"
               className="me-2"
